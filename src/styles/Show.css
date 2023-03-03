@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600&display=swap');
+
+.showMain{
+  display: flex;
+   justify-content: space-evenly;
+}
+
+.showBody {
+   display: flex;
+  flex-direction: column;
+        
+    }
+
+    .updateForm{
+      display: flex;
+      flex-direction: column;
+    }
+
+    .submitBtn{
+      margin: 0 auto
+    }
+
+    .showImg img{
+      width: 630px;
+    }
+
+    .updateCard{
+      background-color: white;
+      position:absolute;
+      width: 517px;
+      right: 150px;
+      border: 1px solid black;
+      padding: 3px
+    }
+
+    .updateCard h2{
+      font-size: 30px;
+      margin-bottom: 0;
+    }
+
+    .updateCard input[type="submit"]{
+      background-color: rgb(107,222,255);
+      border-radius: 30px;
+      padding: 8px 20px;
+      font-size: 14px;
+      border: none;
+      cursor: pointer;
+    }
+
+    .updateCard label{
+      margin-top: 5px;
+    }
+
+    .updateComp h2{
+      font-size: 30px;
+    }
+
+    .showButtons{
+      display: flex;
+      justify-content: space-between;
+      padding: 0;
+    }
+
+    .appBtn, .editDiv button, .deleteBtn{
+      background-color: rgb(107,222,255);
+    border-radius: 30px;
+    padding: 8px 20px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    }
+   
+
+.jobInformation{
+  width: 400px;
+}
+
+.jobInformation h2{
+  margin: 0;
+}
+
+.jobInformation span{
+  font-weight: bold;
+}
+
+
+@media screen and (min-width: 280px) and (max-width: 767px){
+.showBody{
+  width: 100%;
+}
+  .showImg img{
+    display: none;
+  }
+
+  .updateCard{
+    position: relative;
+    border: none;
+    background-color: transparent;
+    width: 90%;
+    right: 0px;
+    margin: 0 auto;
+  }
+
+  .showButtons{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 150px;
+  }
+
+  .editDiv{
+    padding: 0;
+  }
+
+.jobInformation h2{
+  margin-top: 10px;
+}
+}
