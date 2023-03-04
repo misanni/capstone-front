@@ -35,6 +35,7 @@ Mary
 
 ## The Route Table
 | Route | 
+:--------:
 | /api/auth/login |
 |/api/users/:id |
 |/api/users/find/:id |
