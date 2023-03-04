@@ -1,23 +1,11 @@
-# Jobify
+#Online Shopping App
 
 ### Created by:
 
-Mary
+Mary Sanni
 
 ## Description:
-
-
-
-## Problem to be Addressed
-
-
-
-## General Idea/Purpose
-
-
-
-## Audience
-
+This is a software application that allows users to buy and sell goods and services online using their mobile devices. It provides a platform for businesses to create an online store, list their products or services, manage their inventory, and process payments securely.
 
 
 ### Technologies To Be Used
@@ -26,10 +14,12 @@ Mary
 - CSS
 - JAVASCRIPT
 - NODE.JS
-- EXPRESS
-- MONGODB
 - REACT
-- MATERIAL UI
+- EXPRESS JS
+- STRIP
+- AXIOS
+- MONGODB
+- MONGOOSE
 
 
 
