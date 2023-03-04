@@ -31,8 +31,7 @@ Mary
 - REACT
 - MATERIAL UI
 
-## Components Architecture
-![Architecture](https://i.imgur.com/gAmjO3q.png)
+
 
 ## The Route Table
 | Route | Element | Loader | Action | Summary |
