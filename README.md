@@ -35,18 +35,18 @@ Mary
 
 ## The Route Table
 | Route | 
-| /api/auth/login 
-/api/users/:id 
-/api/users/find/:id 
-/api/users/stats 
-/api/carts/
-/api/find/:id
-/api/products/
-/api/products/:id
-/api/checkout/payment 
-/api/orders/
-/api/orders/:id
-/api/orders/income|  
+| /api/auth/login |
+|/api/users/:id |
+|/api/users/find/:id |
+|/api/users/stats |
+|/api/carts/|
+|/api/find/:id|
+|/api/products/|
+|/api/products/:id|
+|/api/checkout/payment |
+|/api/orders/|
+|/api/orders/:id|
+|/api/orders/income|  
 | /posts/delete | 
 
 
