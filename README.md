@@ -35,27 +35,27 @@ Mary
 
 ## The Route Table
 | Route | 
-:---------:
-| /api/auth/login |
-|/api/users/:id |
-|/api/users/find/:id |
-|/api/users/stats |
-|/api/carts/|
-|/api/find/:id|
-|/api/products/|
-|/api/products/:id|
-|/api/checkout/payment |
-|/api/orders/|
-|/api/orders/:id|
-|/api/orders/income| 
+| /api/auth/login 
+/api/users/:id 
+/api/users/find/:id 
+/api/users/stats 
+/api/carts/
+/api/find/:id
+/api/products/
+/api/products/:id
+/api/checkout/payment 
+/api/orders/
+/api/orders/:id
+/api/orders/income|  
 | /posts/delete | 
 
 
 ## Trello Board
 
-[TRELLO BOARD]()
+[TRELLO BOARD](https://trello.com/b/zLsf93tX/ecommerce-app)
 
-## Wire Frames
+## Mockup
+[Mockup Page](https://i.imgur.com/Ii6dlzR.png)
 
 
 ## Link to Project
