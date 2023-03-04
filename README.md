@@ -34,12 +34,7 @@ Mary
 
 
 ## The Route Table
-| Route | Element | Loader | Action | Summary |
-|-------|---------|--------|--------|---------|
-| / | Home | indexLoader | | Home page will include recent posts |
-| /posts | index | indexLoader |  | returns all posts|
-| /posts/:id | show | postShowLoader |  | returns single post|
-| /api/auth/register |  | | postCreateAction | creates post |
+| Route | 
 | /api/auth/login 
 /api/users/:id 
 /api/users/find/:id 
@@ -51,8 +46,8 @@ Mary
 /api/checkout/payment 
 /api/orders/
 /api/orders/:id
-/api/orders/income|  | | postUpdateAction | update post |
-| /posts/delete |  | | postCeleteAction | deletes post |
+/api/orders/income| 
+| /posts/delete | 
 
 
 ## Trello Board
