@@ -1,4 +1,4 @@
-const URL='https://capstone-production-a50d.up.railway.app/api/';
+const URL='https://capstone-goal-app-api.up.railway.app';
 
 
 export const indexLoader = async () => {
